@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-e9ysnk.mon-saas.com/sitemap.xml
